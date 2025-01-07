@@ -1,4 +1,4 @@
-My Project2
+# Stopwatch.
 
 #This is the simple project of stopwatch.
 
